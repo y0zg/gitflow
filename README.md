@@ -10,5 +10,5 @@ git branch -a
   release
 ```
 
-- Change default branch to `develop`
+- Change default branch to `develop` and protect `master` branch
 
