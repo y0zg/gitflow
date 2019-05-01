@@ -11,4 +11,8 @@ git branch -a
 ```
 
 - Change default branch to `develop`
+- Protect `master` branch 
+  - Require pull request reviews before merging
+  - Include administrators
+
 
