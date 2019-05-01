@@ -16,3 +16,5 @@ git branch -a
   - Include administrators
 
 https://start.spring.io/
+
+Install STS
